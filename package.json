@@ -1,0 +1,8 @@
+{
+  "name": "google",
+  "description": "kirby Google Search Console plugin",
+  "author": "Timo Schneider",
+  "license": "MIT",
+  "version": "0.1.0",
+  "type": "kirby-google"
+}
